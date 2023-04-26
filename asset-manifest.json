@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/neg0.github.io/static/css/main.073c9b0a.css",
-    "main.js": "/neg0.github.io/static/js/main.2d082887.js",
+    "main.css": "/neg0.github.io/static/css/main.1ef3a49a.css",
+    "main.js": "/neg0.github.io/static/js/main.5fbe97ba.js",
     "static/js/787.db4dad7c.chunk.js": "/neg0.github.io/static/js/787.db4dad7c.chunk.js",
     "index.html": "/neg0.github.io/index.html",
-    "main.073c9b0a.css.map": "/neg0.github.io/static/css/main.073c9b0a.css.map",
-    "main.2d082887.js.map": "/neg0.github.io/static/js/main.2d082887.js.map",
+    "main.1ef3a49a.css.map": "/neg0.github.io/static/css/main.1ef3a49a.css.map",
+    "main.5fbe97ba.js.map": "/neg0.github.io/static/js/main.5fbe97ba.js.map",
     "787.db4dad7c.chunk.js.map": "/neg0.github.io/static/js/787.db4dad7c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.2d082887.js"
+    "static/css/main.1ef3a49a.css",
+    "static/js/main.5fbe97ba.js"
   ]
 }
